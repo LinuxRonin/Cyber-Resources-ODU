@@ -52,8 +52,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 📞 Need Help?
 
 - Open an [issue](https://github.com/LinuxRonin/Cyber-Resources-ODU/issues) for support
-- Follow [@LinuxRonin](LinuxRonin) for cybersecurity insights
 
 ---
-
-Made with ❤️ by [LinuxRonin](https://github.com/LinuxRonin) | [![GitHub followers](https://img.shields.io/github/followers/LinuxRonin?style=social)](https://github.com/LinuxRonin)
+[![GitHub followers](https://img.shields.io/github/followers/LinuxRonin?style=social)](https://github.com/LinuxRonin)
