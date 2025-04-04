@@ -3,10 +3,10 @@
 ## Global Cert Roadmap
 | Level          | Certifications (Priority Order)       |
 |----------------|---------------------------------------|
-| Entry          | A+, Security+, eJPTv2                 |
-| Intermediate   | CySA+, OSCP, CCNA CyberOps            |
-| Advanced       | CISSP, GCIH, CISM                     |
-| Expert         | GIAC GSE, OSCE3, CRTSA                |
+| Entry          | ITF+, A+, Network+, Security+, ISC2 CC, JAMF 100 & 170 |
+| Intermediate   | CySA+, OSCP, CCNA             |
+| Advanced       | CISSP, GCIH, CISM, eJPTv2             |
+| Expert         | GIAC GSE, CRTSA                |
 
 
 # Basic Cybersecurity Roadmap for ODU Students
