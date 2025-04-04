@@ -33,7 +33,7 @@ This repository contains **the most comprehensive cybersecurity learning roadmap
 
 ## Begin Your Journey
 
-Start with the [Fundamentals Section](#) or jump to your current skill level.
+Start with the [Fundamentals Section](https://github.com/LinuxRonin/Cyber-Resources-ODU/blob/main/Fundamentals) or jump to your current skill level.
 
 ## 🤖 How to Contribute
 
