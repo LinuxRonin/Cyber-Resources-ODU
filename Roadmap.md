@@ -1,12 +1,12 @@
-# Advanced Cybersecurity Roadmap for ODU Students  
+# Basic Cybersecurity Roadmap for ODU Students  
 *Aligned with NIST NICE Framework, MITRE ATT&CK, & Top Global Programs*  
 
 ---
 
 ## **Global Best Practices Integration**  
-- Follow **NIST NICE Framework** work roles (Protect & Defend, Analyze, Operate & Maintain).  
-- Incorporate **MITRE ATT&CK** for real-world adversary behavior analysis.  
-- Blend Carnegie Mellon SEI CERT, SANS Technology Institute, and ETH Zurich methodologies.  
+- Follow [NIST NICE Framework](https://www.nist.gov/cyberframework) work roles (Protect & Defend, Analyze, Operate & Maintain).  
+- Incorporate [MITRE ATT&CK](https://attack.mitre.org/) for real-world adversary behavior analysis.  
+- Blend [Carnegie Mellon SEI CERT](https://www.cto.mil/dtea/sei_cmu/), [SANS Technology Institute](https://www.sans.edu/) , and [ETH Zurich methodologies](https://pp.ethz.ch/research/methodology.html)  
 
 ---
 
